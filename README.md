@@ -1,2 +1,2 @@
 # fintel-issues
-Public repository to track bugs, issues, and feature requests for Fintel
+This repository is no longer used. Please report all bugs and/or issues in the message board -> https://fintel.io/g/welcome

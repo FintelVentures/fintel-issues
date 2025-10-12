@@ -28,7 +28,7 @@ Please submit all issues or feature requests you might have for Fintel.io here.
 
 [Fintel Sweden](https://fintelco.se)
 
-[Fintel Finland](https://fintelco.fi)
+[Fintel Finland](https://fintel.fi)
 
 [Fintel Hong Kong](https://fintel.hk)
 

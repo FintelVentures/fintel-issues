@@ -60,7 +60,4 @@ Please submit all issues or feature requests you might have for Fintel.io here.
 
 [Fintel - Arabic](https://fintelco.ae)
 
-
-
-
-
+[Fintel Romania](https://fintel.ro)

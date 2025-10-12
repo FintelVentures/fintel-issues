@@ -16,12 +16,47 @@ Please submit all issues or feature requests you might have for Fintel.io here.
 
 [Fintel France](https://fintelco.fr)
 
+[Fintel Greece](https://fintel.gr)
+
 [Fintel Netherlands](https://fintelco.nl)
 
 [Fintel Czech](https://fintelco.cz)
 
 [Fintel Norway](https://fintelco.no)
 
+[Fintel Denmark](https://fintelco.dk)
+
+[Fintel Sweden](https://fintelco.se)
+
+[Fintel Finland](https://fintelco.fi)
+
+[Fintel Hong Kong](https://fintel.hk)
+
 [Fintel Korea](https://fintel.co.kr)
 
 [Fintel Italy](https://fintel.co.it)
+
+[Fintel Spain](https://fintel.es)
+
+[Fintel Turkey](https://fintel.tr)
+
+[Fintel Brazil](https://fintelco.com.br)
+
+[Fintel Malaysia](https://fintel.com.my)
+
+[Fintel Indonesia](https://fintel.com.id)
+
+[Fintel Bangladesh](https://fintel.com.bd)
+
+[Fintel China](https://fintelco.cn)
+
+[Fintel Philippines](https://fintel.com.ph)
+
+[Fintel India](https://fntl.in)
+
+[Fintel India - Hindi](https://hi.fntl.in)
+
+[Fintel Russia](https://fintel.com.ru)
+
+
+

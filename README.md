@@ -44,7 +44,7 @@ Please submit all issues or feature requests you might have for Fintel.io here.
 
 [Fintel Malaysia](https://fintel.com.my)
 
-[Fintel Indonesia](https://fintel.com.id)
+[Fintel Indonesia](https://fintel.id)
 
 [Fintel Bangladesh](https://fintel.com.bd)
 

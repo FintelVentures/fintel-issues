@@ -65,3 +65,5 @@ Please submit all issues or feature requests you might have for Fintel.io here.
 [Fintel Romania](https://fintel.ro)
 
 [Fintel Mexico](https://fintelco.mx)
+
+[Fintel Hungary](https://fintel.hu)

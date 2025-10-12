@@ -2,6 +2,8 @@
 Please submit all issues or feature requests you might have for Fintel.io here.
 
 # fintel  sites
+[Fintel](https://fintel.io)
+
 [Fintel Japan](https://fintelco.jp)
 
 [Fintel Germany](https://fintel.com.de)
